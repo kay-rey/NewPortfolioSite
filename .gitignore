@@ -64,6 +64,7 @@ Thumbs.db
 .DS_Store
 .AppleDouble
 .LSOverride
+*.DS_Store
 
 # Icon must end with two \r
 Icon
